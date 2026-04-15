@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "loloafify@gmail.com",
+      "password": "$2a$10$5Di1FkCfLAQl7ja3U85gYOT5MRpKhPNcaCAhKNs86mzp4GenEsD.S",
+      "name": "Ali Nader",
+      "id": 1
+    },
+    {
+      "email": "sarah.dev@example.com",
+      "password": "$2a$10$yDnAhG1MmSYCYYHutH0oc.oCyziZacH5GJ.rWrDZAIDTmQ53Hij2a",
+      "name": "Sarah Connor",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Getting Started with React.js",
+      "description": "A comprehensive guide for beginners to understand hooks, components, and the virtual DOM.",
+      "image": "https://images.unsplash.com/photo-1645027718562-54414cd86f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxibG9nJTIwd3JpdGluZyUyMGxhcHRvcHxlbnwxfHx8fDE3NzU0OTc5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "userId": 1,
+      "id": "101"
+    },
+    {
+      "id": "102",
+      "image": "https://images.unsplash.com/photo-1664355680555-12687f77e0d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwd29ya3NwYWNlJTIwZGVza3xlbnwxfHx8fDE3NzU0MDkyODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Modern Web Development Tools",
+      "description": "Exploring the 2026 landscape of build tools, from Vite to advanced Turborepo setups.",
+      "userId": 2
+    },
+    {
+      "id": "103",
+      "image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9ncmFtbWluZyUyMGNvZGUlMjBzY3JlZW58ZW58MXx8fHwxNzc1NDk4MzkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Building Scalable Applications",
+      "description": "Strategies for managing state and architecture in large-scale enterprise environments.",
+      "userId": 1
+    },
+    {
+      "id": "104",
+      "image": "https://images.unsplash.com/photo-1742440710226-450e3b85c100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMGRlc2lnbiUyMHN0dWRpb3xlbnwxfHx8fDE3NzU0NzAyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "UI/UX Design Principles",
+      "description": "Mastering whitespace, typography, and accessibility to create intuitive user interfaces.",
+      "userId": 2
+    }
+  ]
+}
