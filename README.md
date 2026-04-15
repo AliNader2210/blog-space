@@ -8,3 +8,5 @@
 
 <h2>Run the frontend using:</h2>
 <code>npm run dev</code>
+
+<h3>Run in light mode for the the best experience ❤️</h3>
